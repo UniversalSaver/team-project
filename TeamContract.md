@@ -33,7 +33,7 @@ This contract sets out shared expectations and commitments for how our team will
   - When they can't meet a deadline
 
 * Respectful and inclusive behaviour are necessary for smooth and productive communication. What are some respectful and inclusive behaviours you expect when communicating with each other during lectures, labs, or outside of class? (Examples: Actively listening to each team members ideas, giving everyone a chance to meaningfully contribute, etc.)
-
+  - A response of understanding or lack of understanding (Nods are fine).
 ---
 
 ### [Other Categories of norms and expectations go here]
@@ -55,18 +55,24 @@ This contract sets out shared expectations and commitments for how our team will
 ## Decision Making
 
 * How will decisions about your team project be made? (Examples: By majority vote, by unanimous vote, etc.)
+  - Decisions should be made with unanimous acceptance. The first suggestion with unanimous acceptance should be taken, and a new suggestion should be made if changes are wanted.
+    - This means that once an agreement is made, changing one's mind means changing other people's minds as well.
 
 ---
 ## Conflict resolution
 
 * How will your team resolve conflicts? (Example: by listening to each other's side of the issue and attempting to reach a compromise. By consulting a TA or instructor as a team, if a resolution has not yet been reached.)
-
+  - Team conflicts should be resolved in three steps of escalation
+    - Conversation with each other
+    - Conversation with another two team members (Or one if this includes everyone except one person) (Skip to next step if this is with everyone)
+    - Conversation with a TA
 ---
 
 ## Accountability
 
 * Reliability and accountability are also important aspects of teamwork. What are the responsibilities of each team member? (Example: completing their share of the work in a timely manner, seeking assistance from teammates/TAs/instructors when required, etc.)
-
+  - A lack of understanding should be said
+  - Tasks should be finished on time, or reported as undoable as soon as possible
 ---
 
 ---
